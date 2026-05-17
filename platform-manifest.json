@@ -1,0 +1,92 @@
+{
+  "title": "Sutton SignWriting Platform",
+  "subtitle": "Complete Eight-Series Release",
+  "version": "v1.0.0",
+  "doi": "10.5281/zenodo.20041043",
+  "creator": "Steve Slevinski",
+  "publication_date": "2026-05-15",
+  "license": "CC BY 4.0",
+  "living_site": "https://steveslevinski.me",
+  "series": [
+    {
+      "title": "Sutton SignWriting Foundations",
+      "slug": "foundations",
+      "version": "v1.0.0",
+      "doi": "10.5281/zenodo.20041560",
+      "license": "CC BY 4.0",
+      "living_url": "https://steveslevinski.me/#series/foundations",
+      "repository_url": "https://github.com/sutton-signwriting/foundations",
+      "role": "Public entry point and conceptual foundation."
+    },
+    {
+      "title": "Sutton SignWriting Evidence and Adoption",
+      "slug": "evidence-and-adoption",
+      "version": "v1.0.0",
+      "doi": "10.5281/zenodo.20042446",
+      "license": "CC BY 4.0",
+      "living_url": "https://steveslevinski.me/#series/evidence-and-adoption",
+      "repository_url": "https://github.com/sutton-signwriting/evidence-and-adoption",
+      "role": "Evidence base, adoption boundaries, and country anchors."
+    },
+    {
+      "title": "Signed Language Writing Critical Review Series",
+      "slug": "signed-language-writing-critical-review",
+      "version": "v1.0.0",
+      "doi": "10.5281/zenodo.20042604",
+      "license": "CC BY 4.0",
+      "living_url": "https://steveslevinski.me/#series/signed-language-writing-critical-review",
+      "repository_url": "https://github.com/sutton-signwriting/signed-language-writing-critical-review",
+      "role": "Literature and standards review through the layer-based framework."
+    },
+    {
+      "title": "Writing and Representation in Sutton SignWriting",
+      "slug": "writing-and-representation",
+      "version": "v1.0.0",
+      "doi": "10.5281/zenodo.20070484",
+      "license": "CC BY 4.0",
+      "living_url": "https://steveslevinski.me/#series/writing-and-representation",
+      "repository_url": "https://github.com/sutton-signwriting/writing-and-representation",
+      "role": "Writing-systems theory, authored space, and typological framing."
+    },
+    {
+      "title": "Formal SignWriting",
+      "slug": "formal-signwriting",
+      "version": "v1.0.0",
+      "doi": "10.5281/zenodo.20074767",
+      "license": "CC BY 4.0",
+      "living_url": "https://steveslevinski.me/#series/formal-signwriting",
+      "repository_url": "https://github.com/sutton-signwriting/formal-signwriting",
+      "role": "Technical text model, encoding, search, rendering, styling, and practice."
+    },
+    {
+      "title": "Sutton SignWriting Language and Literacy Research",
+      "slug": "language-and-literacy-research",
+      "version": "v1.0.0",
+      "doi": "10.5281/zenodo.20074878",
+      "license": "CC BY 4.0",
+      "living_url": "https://steveslevinski.me/#series/language-and-literacy-research",
+      "repository_url": "https://github.com/sutton-signwriting/language-and-literacy-research",
+      "role": "Research agenda for signed-language literacy, reading, and pathway questions."
+    },
+    {
+      "title": "Sutton SignWriting Infrastructure and Program",
+      "slug": "infrastructure-and-program",
+      "version": "v1.0.0",
+      "doi": "10.5281/zenodo.20075076",
+      "license": "CC BY 4.0",
+      "living_url": "https://steveslevinski.me/#series/infrastructure-and-program",
+      "repository_url": "https://github.com/sutton-signwriting/infrastructure-and-program",
+      "role": "Stewardship, host structure, shared infrastructure, and program design."
+    },
+    {
+      "title": "Unicode and SignWriting",
+      "slug": "unicode-and-signwriting",
+      "version": "v1.0.0",
+      "doi": "10.5281/zenodo.20075119",
+      "license": "CC BY 4.0",
+      "living_url": "https://steveslevinski.me/#series/unicode-and-signwriting",
+      "repository_url": "https://github.com/sutton-signwriting/unicode-and-signwriting",
+      "role": "Unicode-facing technical notes, compatibility issues, and standards record."
+    }
+  ]
+}
