@@ -230,19 +230,9 @@ In practice.
 
 ---
 
-There will be those who say Unicode should have settled it.
+There will be those who say a standard should have settled it.
 
 No.
-
-A character is not yet a written language.
-
-A symbol block is not yet a living text.
-
-A font is not yet a culture.
-
-A standard is not yet a pathway.
-
-Naming symbols is not the same as preserving written signs.
 
 Standards matter. Encoding matters. Tools matter. But they matter because they serve writing, not because they replace it.
 
@@ -260,7 +250,7 @@ There are communities, documents, teachers, developers, researchers, and writers
 
 The record has already crossed from proposal into practice.
 
-Inevitable does not mean mandatory. It does not mean every community must choose the same path. It means the path now exists, and it cannot honestly be erased from the future of writing.
+Communities will choose their own paths. What has changed is that this path now exists, and it cannot honestly be erased from the future of writing.
 
 ---
 
