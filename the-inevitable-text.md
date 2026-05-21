@@ -106,7 +106,7 @@ I have spent decades building the infrastructure for a truth the world had not y
 
 Valerie Sutton gave the world the script. Deaf writers, teachers, students, translators, dictionary builders, and communities gave it use. My work has been to keep the digital path from breaking: to make the signs searchable, encodable, renderable, recoverable, and durable. I did not create the first flame. I became responsible for making sure it did not go out.
 
-The encoding. The search. The fonts. The dictionaries. The standards work. The stewardship.
+The servers. The code. The fonts. The dictionaries. The standards work. The quiet maintenance. The stewardship.
 
 Not because I expected the world to be ready.
 
