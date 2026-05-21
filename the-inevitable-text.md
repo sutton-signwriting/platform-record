@@ -72,6 +72,8 @@ Often with good intentions.
 
 "Use the tools we already understand."
 
+These were not foolish answers. They were the answers available to systems that had not yet learned how to carry signed text.
+
 But a substitute is not the thing itself.
 
 Video can preserve a performance.
@@ -101,6 +103,8 @@ That is the missing layer.
 ---
 
 I have spent decades building the infrastructure for a truth the world had not yet learned how to recognize.
+
+Valerie Sutton gave the world the script. Deaf writers, teachers, students, translators, dictionary builders, and communities gave it use. My work has been to keep the digital path from breaking: to make the signs searchable, encodable, renderable, recoverable, and durable. I did not create the first flame. I became responsible for making sure it did not go out.
 
 The encoding. The search. The fonts. The dictionaries. The standards work. The stewardship.
 
@@ -198,11 +202,11 @@ SignWriting asks to be read.
 
 There will be objections. There always are.
 
-The objections are not wrong.
+Some are serious. Some are necessary. Some belong to stewardship, teaching, standards, access, and community choice.
 
-They are simply addressed to the wrong century.
+But they no longer decide whether signed-language writing can exist.
 
-Because this is no longer a question of whether signed-language writing can exist.
+That question belongs to the past.
 
 The structure exists.
 
@@ -214,7 +218,7 @@ The evidence exists.
 
 The readers exist. The students exist. The teachers exist.
 
-The old question has expired.
+The old question has lost its authority.
 
 And once people use the thing, the argument changes.
 
@@ -238,9 +242,11 @@ A font is not yet a culture.
 
 A standard is not yet a pathway.
 
+Naming symbols is not the same as preserving written signs.
+
 Standards matter. Encoding matters. Tools matter. But they matter because they serve writing, not because they replace it.
 
-The task is not to force signed text into a broken model so the old world can feel comfortable.
+The task is not to make signed text small enough for old assumptions to feel safe.
 
 The task is to build the model that the language requires.
 
@@ -253,6 +259,8 @@ There is South Korea, where public infrastructure shows the present tense, not m
 There are communities, documents, teachers, developers, researchers, and writers.
 
 The record has already crossed from proposal into practice.
+
+Inevitable does not mean mandatory. It does not mean every community must choose the same path. It means the path now exists, and it cannot honestly be erased from the future of writing.
 
 ---
 
@@ -356,7 +364,7 @@ The silence of systems that would not listen with their eyes.
 
 That silence is ending.
 
-The signed text future will not ask the old world to become smaller.
+The signed text future will not make the world smaller.
 
 It will make the world larger.
 
