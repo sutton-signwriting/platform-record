@@ -38,7 +38,7 @@ And the future does not belong to the assumptions of the past.
 
 For generations, signed languages have been asked to live under borrowed light.
 
-They were filmed. Glossed. Translated. Interpreted. Studied. Admired.
+They were filmed, glossed, translated, interpreted, studied, and admired.
 
 They were called expressive.
 
@@ -64,13 +64,13 @@ Often with sympathy.
 
 Often with good intentions.
 
-Use video.
+"Use video."
 
-Use gloss.
+"Use gloss."
 
-Use translation.
+"Use translation."
 
-Use the tools we already understand.
+"Use the tools we already understand."
 
 These were not foolish answers. They were the answers available to systems that had not yet learned how to carry signed text.
 
@@ -138,11 +138,7 @@ It says a signed language does not need to become speech in order to enter histo
 
 Think about what that means.
 
-A child can read the language of the hands.
-
-A teacher can write a lesson in the language being taught.
-
-A dictionary can show signs as signs, not as shadows of another language.
+A child can read the language of the hands. A teacher can write a lesson in the language being taught. A dictionary can show signs as signs, not as shadows of another language.
 
 A poem can be returned to.
 
