@@ -38,15 +38,15 @@ And the future does not belong to the assumptions of the past.
 
 For generations, signed languages have been asked to live under borrowed light.
 
-They have been filmed, glossed, translated, described, interpreted, analyzed, and admired.
+They were filmed. Glossed. Translated. Interpreted. Studied. Admired.
 
-They have been called expressive.
+They were called expressive.
 
-They have been called beautiful.
+Beautiful.
 
-They have been called visual.
+Visual.
 
-They have been called everything except what they are.
+Everything except what they are.
 
 Language.
 
@@ -64,25 +64,25 @@ Often with sympathy.
 
 Often with good intentions.
 
-"Use video."
+Use video.
 
-"Use gloss."
+Use gloss.
 
-"Use translation."
+Use translation.
 
-"Use the tools we already understand."
+Use the tools we already understand.
 
 These were not foolish answers. They were the answers available to systems that had not yet learned how to carry signed text.
 
 But a substitute is not the thing itself.
 
-Video can preserve a performance.
+Video preserves a performance.
 
-Gloss can point toward meaning.
+Gloss points toward meaning.
 
-Translation can cross a border.
+Translation crosses a border.
 
-Analytic notation can serve a specialist.
+Analytic notation serves a specialist.
 
 But none of these is the same as a signer writing signed language as text.
 
@@ -281,34 +281,6 @@ That is stewardship.
 Not the lightning strike.
 
 The hand that keeps the flame from going out.
-
----
-
-Signed languages have never lacked intelligence.
-
-They have never lacked beauty.
-
-They have never lacked grammar.
-
-They have never lacked culture.
-
-They have never lacked thought.
-
-What they have lacked, too often, is the durable textual layer that lets a language accumulate public memory on its own terms.
-
-That lack has been treated as natural.
-
-It was not natural.
-
-It was historical.
-
-It was technical.
-
-It was institutional.
-
-It was inherited.
-
-And inherited limits can be broken.
 
 ---
 
