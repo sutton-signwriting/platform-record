@@ -25,6 +25,7 @@ The platform record is the release-level entry point. It explains how the eight 
 
 - [platform-overview.md](./platform-overview.md) - formal top-level overview for the platform DOI record
 - [reader-paths.md](./reader-paths.md) - public reading guide for different reader needs
+- [review.md](./review.md) - post-publication review synthesis and routing posture
 - [the-inevitable-text.md](./the-inevitable-text.md) - manifesto companion to the platform record
 - [platform-manifest.json](./platform-manifest.json) - machine-readable release manifest
 - [platform-manifest.csv](./platform-manifest.csv) - spreadsheet-friendly release manifest
@@ -33,14 +34,14 @@ The platform record is the release-level entry point. It explains how the eight 
 
 The platform record identifies these eight series as parts of the complete release:
 
-- Sutton SignWriting Foundations
-- Sutton SignWriting Evidence and Adoption
-- Signed Language Writing Critical Review Series
-- Writing and Representation in Sutton SignWriting
-- Formal SignWriting
-- Sutton SignWriting Language and Literacy Research
-- Sutton SignWriting Infrastructure and Program
-- Unicode and SignWriting
+- [Sutton SignWriting Foundations](https://github.com/sutton-signwriting/foundations)
+- [Sutton SignWriting Evidence and Adoption](https://github.com/sutton-signwriting/evidence-and-adoption)
+- [Signed Language Writing Critical Review Series](https://github.com/sutton-signwriting/signed-language-writing-critical-review)
+- [Writing and Representation in Sutton SignWriting](https://github.com/sutton-signwriting/writing-and-representation)
+- [Formal SignWriting](https://github.com/sutton-signwriting/formal-signwriting)
+- [Sutton SignWriting Language and Literacy Research](https://github.com/sutton-signwriting/language-and-literacy-research)
+- [Sutton SignWriting Infrastructure and Program](https://github.com/sutton-signwriting/infrastructure-and-program)
+- [Unicode and SignWriting](https://github.com/sutton-signwriting/unicode-and-signwriting)
 
 ## Citation
 
