@@ -126,6 +126,8 @@ The platform does not claim authority over signing communities, educational syst
 
 It claims a narrower responsibility: to document, preserve, model, and maintain a body of writing-system and digital-text infrastructure so that it can be cited, used, evaluated, challenged, and improved. That is a stewardship claim, not a governance mandate.
 
+Community disagreement, resistance, or non-adoption does not by itself make a writing pathway illegitimate. A writing system does not require universal community adoption to be documentable, useful, or worthy of evaluation. The platform's narrower question is whether durable written infrastructure exists for communities, educators, writers, researchers, and institutions that choose to use it. The platform documents that infrastructure and its public record of use; it does not convert that record into a mandate for communities that do not want to write with SignWriting.
+
 Deployment decisions belong to communities, educators, institutions, families, publishers, and local language bodies. The platform can support those decisions by providing stable infrastructure and clear boundaries, but it cannot make those decisions for them.
 
 **Open work**
