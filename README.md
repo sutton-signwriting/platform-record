@@ -24,7 +24,8 @@ The platform record is the release-level entry point. It explains how the eight 
 ## Contents
 
 - [platform-overview.md](./platform-overview.md) - formal top-level overview for the platform DOI record
-- [how-to-read-the-platform.md](./how-to-read-the-platform.md) - common misreadings, claim boundaries, and layer frame
+- [how-to-read-the-platform.md](./how-to-read-the-platform.md) - entry guide for claim boundaries, layer distinctions, and fair evaluation
+- [layer-aware-responses.md](./layer-aware-responses.md) - review companion for common objections and layer-aware responses
 - [reader-paths.md](./reader-paths.md) - public reading guide for different reader needs
 - [review.md](./review.md) - post-publication review synthesis and routing posture
 - [the-inevitable-text.md](./the-inevitable-text.md) - manifesto companion to the platform record

@@ -114,6 +114,30 @@ The platform response is layer discipline. Sutton SignWriting is a human writing
 
 The platform should continue to protect that architecture in future explanations.
 
+## Recurring Reception Patterns
+
+Post-publication discussion showed several predictable first-pass misreadings.
+
+These are not signs that readers are careless. They are signs that the platform crosses categories that are usually kept separate.
+
+Recurring patterns include:
+
+- treating the platform as advocacy because it is author-led and DOI-archived rather than a conventional peer-reviewed article
+- treating low visibility in English-language literature as evidence that SignWriting evidence is weak or absent
+- treating video, gloss, transcription, datasets, AI tools, or Unicode records as if they answer the same problem as durable written signed-language text
+- treating documented use as if it were a claim of universal adoption
+- treating Formal SignWriting, FSW, SWU, Unicode, fonts, or rendering as if they were the human writing system itself
+- treating the critical review framework as a defense of one system rather than as an interested but inspectable layer discipline
+- treating alphabetic signed-writing proposals as either simply wrong or obviously superior, rather than as bridge or transfer hypotheses that still require full-path evidence
+
+The best platform response is not to add defensive caveats to every document.
+
+The better response is a short platform-level framing guide that sets the aperture before readers enter the series.
+
+That guide now lives in [how-to-read-the-platform.md](./how-to-read-the-platform.md).
+
+A companion review-response document applies the same layer discipline to recurring objections, distinguishing valid critique from misrouted critique and naming what remains open. That document now lives in [layer-aware-responses.md](./layer-aware-responses.md).
+
 ## Editorial Position
 
 The v1.0.0 published texts remain stable.

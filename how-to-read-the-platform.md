@@ -16,6 +16,8 @@ This guide gives readers the frame needed before evaluating the platform.
 
 It does not ask readers to accept the platform's claims. It asks readers to locate them before accepting, rejecting, testing, or revising them.
 
+A companion review document, *Layer-Aware Responses to Common Objections*, applies this same frame to recurring critiques. This guide provides the shorter entry frame.
+
 It is post-publication guidance. It does not revise the DOI-bearing v1.0.0 artifacts or add a ninth series.
 
 ## The First Question
