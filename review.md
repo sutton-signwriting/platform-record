@@ -136,7 +136,7 @@ The better response is a short platform-level framing guide that sets the apertu
 
 That guide now lives in [how-to-read-the-platform.md](./how-to-read-the-platform.md).
 
-A companion review-response document applies the same layer discipline to recurring objections, distinguishing valid critique from misrouted critique and naming what remains open. That document now lives in [layer-aware-responses.md](./layer-aware-responses.md).
+A companion review document applies the same layer discipline to recurring concerns, distinguishing valid critique from misrouted critique and naming open work. That document now lives in [layer-aware-evaluation.md](./layer-aware-evaluation.md).
 
 ## Editorial Position
 

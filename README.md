@@ -25,7 +25,8 @@ The platform record is the release-level entry point. It explains how the eight 
 
 - [platform-overview.md](./platform-overview.md) - formal top-level overview for the platform DOI record
 - [how-to-read-the-platform.md](./how-to-read-the-platform.md) - entry guide for claim boundaries, layer distinctions, and fair evaluation
-- [layer-aware-responses.md](./layer-aware-responses.md) - review companion for common objections and layer-aware responses
+- [layer-aware-evaluation.md](./layer-aware-evaluation.md) - review companion for recurring concerns and layer-aware evaluation
+- [claims-and-evidence-map.md](./claims-and-evidence-map.md) - compact reviewer-facing map of bounded claims, evidence status, support locations, and limits
 - [reader-paths.md](./reader-paths.md) - public reading guide for different reader needs
 - [review.md](./review.md) - post-publication review synthesis and routing posture
 - [the-inevitable-text.md](./the-inevitable-text.md) - manifesto companion to the platform record
@@ -57,7 +58,7 @@ Use the platform DOI when citing the complete eight-series release as a coherent
 
 This repository contains the platform-level record and supplemental navigation/context files. It does not duplicate the full contents of the eight series repositories. Each series remains citable through its own Zenodo DOI and source repository.
 
-The platform record is not a software application, a claim of community authority, or a ninth content series. It is a coordinated archival publication and infrastructure record for the complete release.
+The platform record is not a software application or a claim of community authority. It is a coordinated archival publication and infrastructure record for the complete release.
 
 ## License
 

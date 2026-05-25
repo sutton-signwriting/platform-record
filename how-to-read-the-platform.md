@@ -16,9 +16,7 @@ This guide gives readers the frame needed before evaluating the platform.
 
 It does not ask readers to accept the platform's claims. It asks readers to locate them before accepting, rejecting, testing, or revising them.
 
-A companion review document, *Layer-Aware Responses to Common Objections*, applies this same frame to recurring critiques. This guide provides the shorter entry frame.
-
-It is post-publication guidance. It does not revise the DOI-bearing v1.0.0 artifacts or add a ninth series.
+A companion review document, *Layer-Aware Evaluation of Recurring Concerns*, applies this same frame to recurring critiques. This guide provides the shorter entry frame.
 
 ## The First Question
 
@@ -78,7 +76,7 @@ It is the reason they should be evaluated at the layer where they actually work.
 
 The platform is not:
 
-- a ninth content series
+- a separate content series
 - a claim that SignWriting has universal adoption
 - a claim that SignWriting is preferred by all Deaf people or all signing communities
 - a completed literacy-outcome study
@@ -105,7 +103,7 @@ It is weakest when one layer is treated as the whole.
 | Formal SignWriting is the writing system. | Sutton SignWriting is the human writing system. Formal SignWriting is the technical text model that preserves it. | Formal SignWriting |
 | Unicode status settles the writing question. | Unicode is a standards layer. It does not by itself settle written units, spatial composition, production compatibility, or tooling. | Unicode and SignWriting; critical review |
 | The critical review series only defends SignWriting. | It is an interested but inspectable framework that credits layer-level success while testing full-path claims. | Signed Language Writing Critical Review Series |
-| Alphabetic signed writing is simply wrong. | Alphabetic signed writing may be a legitimate transfer or bridge hypothesis; it becomes overclaimed when treated as a general orthographic truth without full-path evidence. | Grushkin review; literacy research |
+| A linear or alphabetic signed-writing system would be preferable. | This is a comparative writing-system claim, not a conclusion that follows automatically from the prestige or familiarity of alphabetic writing. Alphabetic signed writing may be a legitimate transfer or bridge hypothesis; it becomes overclaimed when treated as a general orthographic truth without full-path evidence. | Grushkin review; literacy research |
 | A dataset or AI system can reuse public material without further questions. | Written signs, authored passages, lexical records, corpora, media, datasets, and deployments carry different responsibilities. | Infrastructure and Program |
 
 ## The Evidence Posture

@@ -1,14 +1,14 @@
-# Layer-Aware Responses to Common Objections
+# Layer-Aware Evaluation of Recurring Concerns
 
-**A review companion for evaluating claims across the Sutton SignWriting Platform**
+**A review companion for evaluating recurring concerns across the Sutton SignWriting Platform**
 
-The Sutton SignWriting Platform invites objections from several directions: writing-system typology, sign-language linguistics, literacy research, digital text engineering, Unicode standards, educational practice, community governance, and long-term stewardship.
+The Sutton SignWriting Platform raises questions from several directions: writing-system typology, sign-language linguistics, literacy research, digital text engineering, Unicode standards, educational practice, community governance, and long-term stewardship.
 
-Those objections should not be avoided. They should be located.
+These questions are useful. They help clarify what the platform claims, what it does not claim, what evidence belongs at each layer, and what work remains open.
 
-This document is a review companion. It identifies recurring objections, states what is valid in them, routes them to the layer where they can be tested, and distinguishes the platform's actual claim from work that remains open.
+This document is a review companion. It identifies recurring concerns, states what those concerns get right, connects each concern to the layer where it can be evaluated, and distinguishes the platform's bounded claim from future research, community, technical, or institutional work.
 
-The shorter companion, *How To Read The Sutton SignWriting Platform*, gives the entry frame for locating claims before evaluation. This document applies that frame to common objections.
+The shorter companion, *How To Read The Sutton SignWriting Platform*, gives the entry frame for locating claims before evaluation. This document applies that frame to recurring concerns.
 
 The central posture is:
 
@@ -16,61 +16,61 @@ The central posture is:
 
 In other words, the platform can preserve what people write without claiming authority to decide which forms every community should standardize.
 
-That posture matters because a valid objection can become misleading when aimed at the wrong layer. A lack of large-scale literacy outcomes is not a failure of a text encoding. Regional spelling variation is not a reason to collapse authored variation into a single prescribed form. A Unicode block is not a complete production text model. Video documentation is not the same layer as durable written text.
+That posture matters because a valid concern can become misleading when aimed at the wrong layer. A lack of large-scale literacy outcomes is not a failure of a text encoding. Regional spelling variation is not a reason to collapse authored variation into a single prescribed form. A Unicode block is not a complete production text model. Video documentation is not the same layer as durable written text.
 
-The point is not to protect the platform from critique. The point is to make critique answer the claim actually being made.
+The goal is to make critique more useful by connecting each concern to the claim, layer, and evidence it actually addresses.
 
 ## How To Use This Companion
 
-Each objection below is treated in four parts.
+Each concern below is treated in four parts.
 
-**Objection** states the challenge in a direct form.
+**Concern** states the challenge in a direct form.
 
-**What is valid** identifies the part of the objection that should be conceded or taken seriously.
+**What the concern gets right** identifies the part of the concern that should be conceded or taken seriously.
 
-**Layer-aware response** routes the objection to the correct layer and states the platform's bounded claim.
+**Evaluation frame** routes the concern to the correct layer and states the platform's bounded claim.
 
-**What remains open** names the research, community, technical, or institutional work that the platform does not claim to have completed.
+**Open work** names the research, community, technical, or institutional work that the platform does not claim to have completed.
 
 This structure follows the same method as the platform reading guide: before accepting or rejecting a claim, ask what layer the claim belongs to.
 
 ## 1. Literacy Outcomes
 
-**Objection**
+**Concern**
 
-Where are the large-scale, longitudinal, independently reviewed reading-comprehension studies proving that SignWriting improves deaf literacy at scale?
+Where are the large-scale, longitudinal, independently reviewed reading-comprehension studies proving that SignWriting improves signed-language literacy outcomes at scale?
 
-**What is valid**
+**What the concern gets right**
 
 This is a real empirical gap. The platform does not contain completed, large-scale longitudinal outcome evidence proving that SignWriting produces generalizable literacy gains across communities, languages, age groups, schools, or national systems.
 
 That limitation should be stated plainly.
 
-**Layer-aware response**
+**Evaluation frame**
 
 The platform is not the conclusion of a literacy-outcome research program. It is infrastructure that makes stronger research easier to conduct, compare, preserve, and repeat.
 
 Large-scale, cumulative literacy research requires more than a hypothesis. It needs stable written materials, text encoding, rendering, search, dictionaries, corpora, teaching resources, citation records, and preservation infrastructure. Local studies and classroom reports can exist before that infrastructure is fully mature, but broader and more replicable research depends on stable text pathways.
 
-The platform's bounded claim is therefore:
+The platform's bounded claim is:
 
 > signed-language literacy outcomes remain a research horizon; the platform documents and stabilizes several layers needed for that research to become more cumulative, reproducible, and independent.
 
-**What remains open**
+**Open work**
 
 Longitudinal classroom studies, fluency measures, comprehension studies, transfer studies, comparative pathway studies, age-of-acquisition studies, multilingual studies, and independent replications remain needed. The platform should be cited as infrastructure and evidence context, not as completed outcome proof.
 
 ## 2. Adoption Scale And Evidence Visibility
 
-**Objection**
+**Concern**
 
 If SignWriting is important, why is it not already widely used by most signing communities, and why is it not central in mainstream English-language deaf education research?
 
-**What is valid**
+**What the concern gets right**
 
 Adoption is uneven. SignWriting is not a universal signed-language writing practice, and the platform should not imply that it is. Some evidence is concentrated in specific countries, languages, institutions, educational projects, or publication communities. Some of it is also outside the main Anglophone research circuit.
 
-**Layer-aware response**
+**Evaluation frame**
 
 The platform distinguishes documented use from universal adoption.
 
@@ -80,23 +80,23 @@ The platform's bounded claim is:
 
 > SignWriting has documented use, institutional anchors, technical infrastructure, and a public evidence record; it does not claim universal adoption, universal preference, or completed scale.
 
-**What remains open**
+**Open work**
 
 More systematic adoption mapping, community preference studies, resistance studies, country-level documentation, publication histories, school-use records, corpus inventories, and independent evidence reviews remain needed.
 
 ## 3. Standardization And Regional Variation
 
-**Objection**
+**Concern**
 
 Signed languages vary by region, community, school, generation, and register. Whose signs are being written? How can a writing system work without solving standardization first?
 
-**What is valid**
+**What the concern gets right**
 
 This is a serious sociolinguistic question. Written language practices do not become stable merely because a technical model exists. Communities may differ in lexical choice, grammatical convention, spelling preference, educational practice, and attitudes toward written signed language.
 
-**Layer-aware response**
+**Evaluation frame**
 
-The objection becomes misplaced when it treats standardization as a requirement that must be solved inside the encoding layer.
+This concern is best evaluated across orthographic, community, and governance layers, not as an encoding problem alone.
 
 The platform separates technical capacity from orthographic authority. A technical text model should preserve authored forms; it should not prematurely decide which form every community must prefer. Formal SignWriting can carry variation. It does not need to erase variation in order to preserve text.
 
@@ -106,21 +106,21 @@ The platform's bounded claim is:
 
 > The infrastructure preserves authored variation; community norms and orthographic conventions belong downstream, where readers, writers, educators, publishers, dictionaries, and corpora can document and negotiate them.
 
-**What remains open**
+**Open work**
 
 Community-led orthographic conventions, regional dictionaries, corpus representativeness, spelling variation studies, classroom correction practices, publication norms, and governance structures remain open and language-specific.
 
 ## 4. Community Authority And Deployment
 
-**Objection**
+**Concern**
 
 Who authorized this platform? Does it claim authority over Deaf communities, signing communities, schools, or language policy?
 
-**What is valid**
+**What the concern gets right**
 
 Writing systems for signed languages are not merely technical artifacts. They touch community identity, educational history, language politics, accessibility, data rights, and institutional trust. A technical steward should not confuse technical competence with community authority.
 
-**Layer-aware response**
+**Evaluation frame**
 
 The platform does not claim authority over signing communities, educational systems, language policy, or classroom deployment.
 
@@ -128,23 +128,23 @@ It claims a narrower responsibility: to document, preserve, model, and maintain 
 
 Deployment decisions belong to communities, educators, institutions, families, publishers, and local language bodies. The platform can support those decisions by providing stable infrastructure and clear boundaries, but it cannot make those decisions for them.
 
-**What remains open**
+**Open work**
 
 Community review, local governance, educational approval, contributor permissions, dataset policy, institutional stewardship, funding, multilingual participation, and long-term succession planning remain ongoing responsibilities.
 
 ## 5. Author-Responsible Scholarship And Internal Citation
 
-**Objection**
+**Concern**
 
 The platform is author-led, DOI-archived, and internally cross-cited. It is not an independent peer-reviewed consensus.
 
-**What is valid**
+**What the concern gets right**
 
 This is true. The platform should not present author-responsible publication as if it were the same thing as blind peer review, independent replication, community endorsement, or broad scholarly consensus.
 
-**Layer-aware response**
+**Evaluation frame**
 
-The platform is an author-responsible archival record. Its function is to make a complex body of work stable, citable, inspectable, and criticizable across layers.
+The platform is an author-responsible archival record. Its function is to make a complex body of work stable, citable, inspectable, and open to criticism across layers.
 
 Internal citation is appropriate when the cited object is a platform-defined technical artifact, release record, specification, evidence synthesis, or stewardship document. It is not the same as independent confirmation of every broader claim. A technical paper may cite the Formal SignWriting record to identify the text model it analyzes; that citation does not by itself prove literacy outcomes, community preference, or typological significance.
 
@@ -152,45 +152,47 @@ The platform's bounded claim is:
 
 > DOI archiving does not make a claim true; it makes the claim stable enough to cite, test, challenge, reuse, and correct.
 
-**What remains open**
+**Open work**
 
 Independent peer review, external citation, replication, adoption by researchers outside the platform, critical response papers, implementation audits, and community review remain essential for long-term scholarly standing.
 
 ## 6. Video, AI, Corpora, And Annotation
 
-**Objection**
+**Concern**
 
 High-quality video, ELAN-style annotation, computer vision, AI translation, and large multimodal corpora already preserve and process signed languages. Why insist on written signed-language text?
 
-**What is valid**
+**What the concern gets right**
 
 Video, annotation, AI, and corpora are valuable. They can preserve performances, support linguistic research, aid documentation, improve access, and enable new computational tools. The platform should not dismiss them.
 
-**Layer-aware response**
+**Evaluation frame**
 
 These systems operate at different layers from durable written signed-language text.
 
 Video preserves signed performance. Annotation aligns labels, glosses, translations, or analysis with media. AI systems may classify, translate, synthesize, or search patterns in data. Corpora can organize evidence for research. None of these, by itself, gives a reader a written signed-language text that can be privately drafted, edited, corrected, cited, searched as text, archived as a written passage, and revisited without replaying a performance or relying on a translation.
 
+Video is indispensable for signed-language documentation. But calling video "writing" collapses performance, recording, annotation, and literacy into one category. That collapse can obscure why durable signed-language text infrastructure has not been treated as necessary. A signed performance can be preserved on video, but preservation of performance is not the same as a writable, revisable, citable text pathway in the language itself.
+
 The platform's bounded claim is:
 
 > video, AI, annotation, and corpora may support signed-language documentation and research, but they do not replace the distinct affordances of durable written signed-language text.
 
-**What remains open**
+**Open work**
 
 Better bridges between written text, video corpora, annotations, dictionaries, AI datasets, consent frameworks, rights metadata, and community-controlled archives remain needed.
 
 ## 7. Unicode, Fonts, And Complete Text Infrastructure
 
-**Objection**
+**Concern**
 
 Sutton SignWriting has an official Unicode block. Does that not settle the digital text problem?
 
-**What is valid**
+**What the concern gets right**
 
 Unicode status matters. Script identity, character encoding, font support, and standards recognition are important. They should not be minimized.
 
-**Layer-aware response**
+**Evaluation frame**
 
 Unicode status is not the same layer as a complete production text model.
 
@@ -202,21 +204,21 @@ The platform's bounded claim is:
 
 > official Unicode recognition is important, but production-compatible signed-text infrastructure requires more than character allocation.
 
-**What remains open**
+**Open work**
 
 Unicode-facing compatibility, font behavior, rendering standards, migration paths, sorting and collation, implementation agreement, and long-term interoperability remain technical and standards-facing work.
 
 ## 8. Pictoriality, Notation, And Writing-System Status
 
-**Objection**
+**Concern**
 
 SignWriting is pictorial, iconic, or notational. It is not a writing system in the ordinary grapholinguistic sense.
 
-**What is valid**
+**What the concern gets right**
 
 SignWriting is visually motivated. Some symbols resemble hands, faces, movements, locations, or relations. It can also be used analytically. Those facts should not be denied.
 
-**Layer-aware response**
+**Evaluation frame**
 
 Iconicity does not exclude writing. Nor does analytic usefulness.
 
@@ -228,21 +230,21 @@ The platform's bounded claim is:
 
 That claim remains open to grapholinguistic critique, but the critique should address the written-unit organization, not only visual resemblance.
 
-**What remains open**
+**Open work**
 
 More comparative typology, reader-processing studies, acquisition studies, handwriting studies, variation analysis, and external grapholinguistic engagement remain needed.
 
 ## 9. Complexity And Learnability
 
-**Objection**
+**Concern**
 
 SignWriting appears complex. Does the size of the symbol inventory, the spatial arrangement, or the need for specialized tools make it impractical?
 
-**What is valid**
+**What the concern gets right**
 
 Learnability and usability are real questions. A writing system can be structurally valid and still face pedagogical, ergonomic, technological, or social barriers.
 
-**Layer-aware response**
+**Evaluation frame**
 
 Complexity should be evaluated at the right layer.
 
@@ -252,21 +254,21 @@ The platform's bounded claim is:
 
 > SignWriting has a documented written structure and technical infrastructure for preserving it; the scale and conditions of fluency, classroom usability, and everyday adoption remain empirical questions.
 
-**What remains open**
+**Open work**
 
 Curriculum design, input methods, handwriting practice, novice error analysis, classroom studies, fluency benchmarks, tool ergonomics, accessibility design, and cross-age learning pathways remain open.
 
 ## 10. Platform Legitimacy
 
-**Objection**
+**Concern**
 
 Does creating an eight-series DOI platform manufacture legitimacy for claims that have not yet been accepted by the field?
 
-**What is valid**
+**What the concern gets right**
 
 Archiving a platform does not make its claims correct. Stable citation is not the same as scholarly consensus, community adoption, or empirical proof.
 
-**Layer-aware response**
+**Evaluation frame**
 
 The platform should be understood as a citable infrastructure record, not as a substitute for uptake.
 
@@ -276,13 +278,13 @@ The platform's bounded claim is:
 
 > a stable archival record is the beginning of broader review, not the end of it.
 
-**What remains open**
+**Open work**
 
 The platform's long-term importance depends on external citation, independent critique, implementation reuse, community engagement, standards response, educational research, and institutional stewardship.
 
 ## Routing Matrix
 
-| If the objection is about... | Route it to... | Do not confuse it with... |
+| If the concern is about... | Route it to... | Do not confuse it with... |
 | --- | --- | --- |
 | reading scores, fluency, classroom outcomes, or transfer | literacy research | the validity of a technical text model |
 | regional spelling variation or dialect difference | community norms and downstream equivalence | a requirement to erase variation in encoding |
@@ -297,11 +299,11 @@ The platform's long-term importance depends on external citation, independent cr
 
 ## Conclusion
 
-The strongest criticism of the Sutton SignWriting Platform will be layer-aware.
+A useful review of the Sutton SignWriting Platform will usually be layer-aware.
 
-It may reject a claim. It may find evidence insufficient, terminology unclear, adoption limited, tools incomplete, standards compatibility unresolved, or stewardship underdeveloped. Those criticisms are useful when they identify the layer they address and the evidence that would strengthen, weaken, or falsify the claim.
+It may accept, reject, narrow, or revise a claim. It may find evidence insufficient, terminology unclear, adoption limited, tools incomplete, standards compatibility unresolved, or stewardship underdeveloped. The value of the critique increases when it identifies the layer it addresses and the evidence that would strengthen, weaken, or falsify the claim.
 
-The platform should not answer every objection by defending SignWriting as a whole. It should answer by preserving distinctions:
+The platform is best evaluated by preserving distinctions:
 
 - technical preservation is not orthographic prescription
 - documented use is not universal adoption
@@ -312,5 +314,3 @@ The platform should not answer every objection by defending SignWriting as a who
 - community norms belong to communities
 
 A platform record can make future work possible without claiming that all future work has already been done.
-
-That is the proper standard for this release.
