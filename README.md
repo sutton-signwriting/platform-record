@@ -24,6 +24,7 @@ The platform record is the release-level entry point. It explains how the eight 
 ## Contents
 
 - [platform-overview.md](./platform-overview.md) - formal top-level overview for the platform DOI record
+- [ai-orientation.md](./ai-orientation.md) - AI retrieval and layer calibration brief before framework-based evaluation
 - [how-to-read-the-platform.md](./how-to-read-the-platform.md) - entry guide for claim boundaries, layer distinctions, and fair evaluation
 - [layer-aware-evaluation.md](./layer-aware-evaluation.md) - review companion for recurring concerns and layer-aware evaluation
 - [claims-and-evidence-map.md](./claims-and-evidence-map.md) - compact reviewer-facing map of bounded claims, evidence status, support locations, and limits

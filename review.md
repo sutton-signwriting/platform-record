@@ -88,7 +88,7 @@ Several review themes are valid but belong in specific series rather than in eve
 - Questions about adoption scale, country evidence, institutional anchors, and resistance belong primarily in *Sutton SignWriting Evidence and Adoption*.
 - Questions about reading fluency, cognitive processing, literacy development, and study design belong primarily in *Sutton SignWriting Language and Literacy Research*.
 - Questions about signboxes, coordinates, grammar, search, rendering, styling, and implementation belong primarily in *Formal SignWriting*.
-- Questions about official Unicode SignWriting, FSW, SWU, compatibility, Wikimedia, and UTC-facing standards work belong primarily in *Unicode and SignWriting* and the relevant critical review entry.
+- Questions about official Unicode SignWriting, FSW, SWU, compatibility, Wikimedia, and facial-orthography boundary work belong primarily in *Unicode and SignWriting* and the relevant critical review entry.
 - Questions about long-term maintenance, hosting, international participation, AI/data governance, and funding belong primarily in *Sutton SignWriting Infrastructure and Program*.
 - Questions about external scholarship, standards, notation systems, and full-path adequacy belong primarily in the *Signed Language Writing Critical Review Series*.
 

@@ -67,7 +67,7 @@ Use this path for Unicode, Wikimedia, standards, compatibility, and implementati
 1. *Unicode Overview* - Unicode and SignWriting
 2. *Developer Notes* - Unicode and SignWriting
 3. *Chronology and Record* - Unicode and SignWriting
-4. *Draft UTC-Facing Technical Note* - Unicode and SignWriting
+4. *Facial Orthography Boundary* - Unicode and SignWriting
 5. *Official Unicode SignWriting: The Character Problem and the Written-Sign Problem* - Signed Language Writing Critical Review Series
 
 Also see *FSW and SWU* in *Formal SignWriting* for the non-Unicode formal encoding context.

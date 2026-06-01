@@ -4,7 +4,7 @@
 
 This map is not a substitute for the eight series. It is a reviewer aid for locating claims, evidence, limits, and open work.
 
-The map should be read with two companion documents: *How To Read The Sutton SignWriting Platform* provides the entry frame for locating claims before evaluation, and *Layer-Aware Evaluation of Recurring Concerns* applies that frame to recurring critiques.
+The map should be read with two primary companion documents: *How To Read The Sutton SignWriting Platform* provides the entry frame for locating claims before evaluation, and *Layer-Aware Evaluation of Recurring Concerns* applies that frame to recurring critiques. *AI Orientation to Sutton SignWriting and Formal SignWriting* remains available as a supplemental calibration note for AI systems and AI-assisted review workflows.
 
 | Platform claim | Layer | Evidence status | Where supported | What it does not prove |
 | --- | --- | --- | --- | --- |

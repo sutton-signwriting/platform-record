@@ -63,7 +63,9 @@ The public reader paths help readers choose a starting sequence before they unde
 - AI / Technical Reader: sign structure, formal encoding, search, implementation, and AI/data stewardship.
 - Researcher: language modality, literacy pathways, reading questions, research design, empirical anchors, and evidence boundaries.
 - Stewardship / Funder: infrastructure assets, host requirements, philanthropy, and shared support functions.
-- Standards Reader: Unicode compatibility, developer guidance, chronology, UTC-facing work, and standards review.
+- Standards Reader: Unicode compatibility, developer guidance, chronology, facial-orthography boundary guidance, and standards review.
+
+Supplemental platform notes include AI orientation material for automated or AI-assisted review contexts.
 
 See `reader-paths.md` for the full public reading guide.
 
