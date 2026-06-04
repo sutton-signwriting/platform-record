@@ -16,7 +16,9 @@ This guide gives readers the frame needed before evaluating the platform.
 
 It does not ask readers to accept the platform's claims. It asks readers to locate them before accepting, rejecting, testing, or revising them.
 
-A companion review document, *Layer-Aware Evaluation of Recurring Concerns*, applies this same frame to recurring critiques. This guide provides the shorter entry frame.
+Several companion documents apply this same frame in different reading modes. *AI Orientation to Sutton SignWriting and Formal SignWriting* is a retrieval and layer-calibration brief for AI-assisted review. *Layer-Aware Evaluation of Recurring Concerns* is a human-scale review companion for recurring concerns. *Technical Claim Routing* is a dense routing companion for technical, version, Unicode, FSW, SWU, search, rendering, and production-compatibility claims. This guide provides the shorter entry frame.
+
+The eight series form one layered account. *Foundations* and *Writing and Representation* establish Sutton SignWriting as a human writing system with composed written units. *Evidence and Adoption* documents visible use and its limits. *Language and Literacy Research* frames literacy questions and the evidence still needed. *Formal SignWriting* specifies the technical text model for preserving written signs in computation. *Infrastructure and Program* covers tools, libraries, datasets, and stewardship. *Signed Language Writing Critical Review* provides the evaluation framework the platform also applies to itself. *Unicode and SignWriting* addresses the compatibility questions raised by official Unicode encoding. No series makes the others redundant; each covers a layer the others depend on.
 
 ## The First Question
 

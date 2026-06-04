@@ -24,13 +24,14 @@ The platform record is the release-level entry point. It explains how the eight 
 ## Contents
 
 - [platform-overview.md](./platform-overview.md) - formal top-level overview for the platform DOI record
-- [ai-orientation.md](./ai-orientation.md) - AI retrieval and layer calibration brief before framework-based evaluation
 - [how-to-read-the-platform.md](./how-to-read-the-platform.md) - entry guide for claim boundaries, layer distinctions, and fair evaluation
+- [ai-orientation.md](./ai-orientation.md) - AI retrieval and layer calibration brief before framework-based evaluation
 - [layer-aware-evaluation.md](./layer-aware-evaluation.md) - review companion for recurring concerns and layer-aware evaluation
+- [technical-claim-routing.md](./technical-claim-routing.md) - dense routing companion for technical, version, Unicode, FSW, SWU, rendering, search, and production-compatibility claims
 - [claims-and-evidence-map.md](./claims-and-evidence-map.md) - compact reviewer-facing map of bounded claims, evidence status, support locations, and limits
 - [reader-paths.md](./reader-paths.md) - public reading guide for different reader needs
-- [review.md](./review.md) - post-publication review synthesis and routing posture
 - [the-inevitable-text.md](./the-inevitable-text.md) - manifesto companion to the platform record
+- [review.md](./review.md) - post-publication review synthesis and routing posture
 - [platform-manifest.json](./platform-manifest.json) - machine-readable release manifest
 - [platform-manifest.csv](./platform-manifest.csv) - spreadsheet-friendly release manifest
 
